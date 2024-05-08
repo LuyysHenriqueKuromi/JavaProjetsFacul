@@ -1,4 +1,4 @@
-public class AulaIf_Else_ElseIf {
+public class AuladIf_Else_ElseIf {
     public static void main(String[] args) {
         int x = 0;
         int y = 0;
