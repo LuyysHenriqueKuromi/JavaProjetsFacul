@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class GUI_1 {
+public class AuladJOPa {
     public static void main(String[] args) {
         String senha = JOptionPane.showInputDialog(
             "Digite sua senha");

@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class GUI_2 {
+public class AuladJOPb {
     public static void main(String[] args) {
         String ano_str = JOptionPane.showInputDialog("Digite o ano em que você nasceu");
         int ano_int = Integer.parseInt(ano_str);
